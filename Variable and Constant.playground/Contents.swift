@@ -62,5 +62,5 @@ print(iftake+" "+five+" "+minus+" "+six+" "+Eq+" "+"\(int6-int5)")
 
 print(iftake+" "+five+" "+divid+" "+six+" "+Eq+" "+"\(int6/int5)")
 
-
+print(iftake+" "+five+" "+divid+" "+six+" "+Eq+" "+"\(Double(int6)/Double(int5))")
 
